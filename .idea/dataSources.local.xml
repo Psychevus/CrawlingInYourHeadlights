@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - crawlinginyourheadlights@localhost" uuid="9de036bd-ba6e-4d53-a588-a6e8ba419391">
+      <secret-storage>master_key</secret-storage>
+      <user-name>Rabin</user-name>
+      <schema-pattern>crawlinginyourheadlights.*</schema-pattern>
+      <default-schemas>crawlinginyourheadlights.*</default-schemas>
+    </data-source>
+  </component>
+</project>
